@@ -1,0 +1,4 @@
+com\example\Base64\Base64Application.class
+com\example\Base64\TestWorkflow.class
+com\example\Base64\ServletInitializer.class
+com\example\Base64\TestController.class
